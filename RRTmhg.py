@@ -48,7 +48,7 @@ class n_informedRRTstar(SQ_Planner):
         
     def sample(self):
         #alias
-        n_factor = 0.5
+        n_factor = 0.8
         map= self.map
         costs =  self.tree.node_cost
         init = self.init

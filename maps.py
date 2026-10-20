@@ -106,9 +106,9 @@ maps=(MapData(map1,"Mapa 'J' Map"),
       MapData(map2,"Easy Map"),
       MapData(map3,"Imposible Map"),
       MapData(map4,"T Map"),
-      MapData(map5,"Mapa NIRT",(200,200),(800,200)),
+      MapData(map5,"Mapa NIRT",(350,200),(650,200)),
       MapData(map6, "Plano 1", (106, 170), (868, 548)),
-      MapData(map7, "Plano 2", (30, 570), (790, 340))
+      MapData(map7, "Plano 2", (297, 220), (297, 90))
       )
 
 def p2distance(p1,p2):
